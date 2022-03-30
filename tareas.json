@@ -1,0 +1,19 @@
+[{
+    "titulo": "Ordenar la casa",
+    "estado": "Terminada"
+}, {
+    "titulo": "Cocinar la cena",
+    "estado": "En progreso"
+}, {
+    "titulo": "Sacar a pasear al perro",
+    "estado": "pendiente"
+}, {
+    "titulo": "dormir",
+    "estado": "en progreso"
+}, {
+    "titulo": "jugar videojuegos",
+    "estado": "pendiente"
+}, {
+    "titulo": "hacer la app de notas parte 2",
+    "estado": "en progreso"
+}]
